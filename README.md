@@ -12,20 +12,20 @@ This is a mini project which is Node-Farm. Using node.js file system.
 
 #### Project Demo :
 
-![ProjectDemo](https://github.com/devikumavath/Nodes-Farm/blob/main/screenShots/projectDemo.gif)
+![ProjectDemo]()
 
 #### Home Page :
 
-<!-- ![https://github.com/devikumavath/Nodes-Farm/blob/main/screenShots/homePage.png] | width=640) -->
+<!-- ![https://github.com/devikumavath/Angular-Todo-Web-App/blob/main/screenShots/homePage.png] | width=640) -->
 
-<img src="https://github.com/devikumavath/Nodes-Farm/blob/main/screenShots/homePage.png" width="640">
+<img src="https://github.com/devikumavath/Angular-Todo-Web-App/blob/main/screenShots/homePage.png" width="640">
 
 
 #### About Page:
 
-<!-- ![https://github.com/devikumavath/Nodes-Farm/blob/main/screenShots/checkoutPage.png] | width=640) -->
+<!-- ![https://github.com/devikumavath/Angular-Todo-Web-App/blob/main/screenShots/About.png] | width=640) -->
 
-<img src="https://github.com/devikumavath/Nodes-Farm/blob/main/screenShots/checkoutPage.png" width="640">
+<img src="https://github.com/devikumavath/Angular-Todo-Web-App/blob/main/screenShots/About.png" width="640">
 
 ## Getting Started ✨
 
